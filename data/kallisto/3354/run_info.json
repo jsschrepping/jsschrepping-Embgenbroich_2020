@@ -1,0 +1,13 @@
+{
+	"n_targets": 133944,
+	"n_bootstraps": 0,
+	"n_processed": 5885561,
+	"n_pseudoaligned": 5533142,
+	"n_unique": 1889515,
+	"p_pseudoaligned": 94.0,
+	"p_unique": 32.1,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Mon Jan 21 12:03:45 2019",
+	"call": "kallisto quant -o /output/kallisto/3354 -i /index/index -t 1 --single -l 75 -s 1 /input/merged_runs/3354_S3354_L001_R1_001.fastq.gz"
+}
